@@ -1,0 +1,10 @@
+# Simple Python code to print a message and take input from the user
+
+# Printing a message
+print("Hello, World!")
+
+# Taking user input
+name = input("What's your name? ")
+
+# Printing a personalized message
+print(f"Nice to meet you, {name}!")
